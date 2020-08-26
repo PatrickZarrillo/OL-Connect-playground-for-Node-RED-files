@@ -1,0 +1,5 @@
+# exclude Output
+Output/*
+
+#exception to the rule
+!Output/placeholder.txt
